@@ -1,0 +1,17 @@
+Pendiri PHP : Rasmus
+PHP : Hypertext Preprocessor
+Variabel : Tempat untuk menampung sebuah data/nilai
+Macam-macam type data:
+1.Array
+  Tipe data untuk menyimpan sejumlah elemen dalam urutan tertentu.
+2.String
+  Tipe data yang berisi kumpulan karakter, angka, atau simbol. String selalu diperlakukan sebagai teks,
+  sehingga tidak bisa digunakan untuk operasi perhitungan matematis.
+3.Integer
+  Tipe data yang berisi bilangan bulat, tanpa desimal.
+4.Boolean
+  Tipe data yang menyatakan nilai True(Benar) atau False(Salah).
+5.Character
+  Tipe data yang digunakan untuk menyimpan satu huruf, angka, tanda baca, simbol, atau spasi kosong.
+6.Floating Point
+  Tipe data yang menyatakan angka dengan nominal pecahan.
